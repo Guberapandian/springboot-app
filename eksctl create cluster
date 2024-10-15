@@ -1,0 +1,1 @@
+eksctl create cluster --name k8smaster --region us-east-2 --ndegroup-name k8nodes --node-type t3.medium --managed --nodes 2
