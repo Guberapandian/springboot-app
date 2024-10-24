@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: my-springboot-app
-        image: 762233769537.dkr.ecr.ap-southeast-1.amazonaws.com/python-pro
+        image: 762233769537.dkr.ecr.ap-southeast-1.amazonaws.com/gubera/pandian
         imagePullPolicy: Always
         ports:
         - containerPort: 8085
